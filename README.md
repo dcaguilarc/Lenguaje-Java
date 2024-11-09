@@ -9,4 +9,4 @@ To open the program you **must follow these steps**.
 3. Then it will show you the option 'Introduce un número'
 4. Put your number -∞, +∞ and press enter
   
-**The program will tell you if your number is positive or negative**
+**The program will tell you if your number is positive or negative** 
